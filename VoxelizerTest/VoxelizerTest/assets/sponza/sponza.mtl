@@ -1,0 +1,258 @@
+newmtl Material__25
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd lion.tga
+map_Ka lion.tga
+bump lion_ddn.tga -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material__47
+illum 4
+Kd 0.59 0.59 0.59
+Ka 0.59 0.59 0.59
+Tf 1.00 1.00 1.00
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+map_Kd suzanne.png
+newmtl Material__57
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vase_plant.tga
+map_Ka vase_plant.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl Material__298
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd background.tga
+map_Ka background.tga
+bump background_ddn.tga -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl arch
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_arch_diff.tga
+map_Ka sponza_arch_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl bricks
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd spnza_bricks_a_diff.tga
+map_Ka spnza_bricks_a_diff.tga
+bump spnza_bricks_a_diff.tga -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl ceiling
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_ceiling_a_diff.tga
+map_Ka sponza_ceiling_a_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl chain
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd chain_texture.tga
+map_Ka chain_texture.tga
+bump chain_texture_ddn.tga -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl column_a
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_column_a_diff.tga
+map_Ka sponza_column_a_diff.tga
+bump sponza_column_a_ddn.tga -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl column_b
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_column_b_diff.tga
+map_Ka sponza_column_b_diff.tga
+bump sponza_column_b_ddn.tga -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl column_c
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_column_c_diff.tga
+map_Ka sponza_column_c_diff.tga
+bump sponza_column_c_ddn.tga -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl details
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_details_diff.tga
+map_Ka sponza_details_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl fabric_a
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_fabric_diff.tga
+map_Ka sponza_fabric_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl fabric_c
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_curtain_diff.tga
+map_Ka sponza_curtain_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl fabric_d
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_fabric_blue_diff.tga
+map_Ka sponza_fabric_blue_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl fabric_e
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_fabric_green_diff.tga
+map_Ka sponza_fabric_green_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl fabric_f
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_curtain_green_diff.tga
+map_Ka sponza_curtain_green_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl fabric_g
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_curtain_blue_diff.tga
+map_Ka sponza_curtain_blue_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl flagpole
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_flagpole_diff.tga
+map_Ka sponza_flagpole_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl floor
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_floor_a_diff.tga
+map_Ka sponza_floor_a_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl leaf
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_thorn_diff.tga
+map_Ka sponza_thorn_diff.tga
+bump sponza_thorn_ddn.tga -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl roof
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd sponza_roof_diff.tga
+map_Ka sponza_roof_diff.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl vase
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vase_dif.tga
+map_Ka vase_dif.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl vase_hanging
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vase_hanging.tga
+map_Ka vase_hanging.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl vase_round
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd vase_round.tga
+map_Ka vase_round.tga
+bump vase_round_ddn.tga -bm 0
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00

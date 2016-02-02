@@ -1,0 +1,25 @@
+A(p)    -> ambient occlusion factor
+p       -> sufrace pointer
+Ω       -> hemisphere 
+s       -> ray origin
+w       -> ray direction
+V(p, w) -> (hit == true) ? 0 : 1
+cos(w)  -> probably dot(w, n); where w is ray direction and n is surface normal
+
+A(p) = 1 ⌠
+       π ⌡Ω V(p, w)(cos(w))dw
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+symbol LUT:
+Ω (alt + 234)
+π (alt + 227)
+⌠ (alt + 244)
+⌡ (alt + 245)
